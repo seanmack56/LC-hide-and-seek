@@ -1,0 +1,2275 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (2023-12-24 7:22:08 PM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :   Console] [MonoMod] 
+[Info   :   Console] Reading input file into module.
+[Info   :HookGenPatcher] Starting HookGenerator
+[Info   :HookGenPatcher] Done.
+[Info   :   Console] [MonoMod] 
+[Info   :   Console] Reading input file into module.
+[Info   :HookGenPatcher] Starting HookGenerator
+[Info   :HookGenPatcher] Done.
+[Info   :   Console] [MonoMod] 
+[Info   :   Console] Reading input file into module.
+[Info   :HookGenPatcher] Starting HookGenerator
+[Info   :HookGenPatcher] Done.
+[Info   :   Console] [MonoMod] 
+[Info   :   Console] Reading input file into module.
+[Info   :HookGenPatcher] Starting HookGenerator
+[Info   :HookGenPatcher] Done.
+[Info   :   Console] [MonoMod] 
+[Info   :   Console] Reading input file into module.
+[Info   :HookGenPatcher] Starting HookGenerator
+[Info   :HookGenPatcher] Done.
+[Info   :   Console] [MonoMod] 
+[Info   :   Console] Reading input file into module.
+[Info   :HookGenPatcher] Starting HookGenerator
+[Info   :HookGenPatcher] Done.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 38 plugins to load
+[Warning:   BepInEx] Plugin [BetterSprint 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [BoomBoxOverhaul 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [LethalExpansion 1.3.25] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [Better Teleport Mod 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [HealthMetrics 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [MoreEmotes-Sligili 1.3.3] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [Custom Boombox Music 1.4.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [Scoopy's Variety Mod 0.6.4] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [LethalConfig 1.3.4]
+[Info   :ainavt.lc.lethalconfig] Finished loading assets.
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Int Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Step Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Bool Checkbox"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Enum Dropdown"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Text Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig.ConfigItems.GenericButtonConfigItem"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Int Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Input"
+[Info   :ainavt.lc.lethalconfig] LethalConfig loaded!
+[Info   :   BepInEx] Loading [No Monsters 1.0.0]
+[Info   :No Monsters] Loaded No Monsters.
+[Info   :   BepInEx] Loading [Terminal Api 1.5.0]
+[Info   :Terminal Api] Plugin TerminalApi is loaded!
+[Info   :   BepInEx] Loading [AlwaysShowClock 1.0.0]
+[Info   :   BepInEx] Loading [BiggerLobby 2.6.0]
+[Info   : Unity Log] Kick Fix Applied
+[Info   :BiggerLobby] BiggerLobby loaded
+[Info   :   BepInEx] Loading [BoomboxSyncFix 1.1.0]
+[Info   :BoomboxSyncFix] Plugin BoomboxSyncFix has loaded!
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.6.1]
+[Info   :Lethal Company Input Utils] Registered InputUtilsExtendedMouse Layout Override!
+[Info   :Lethal Company Input Utils] InputUtils 0.6.1 has finished loading!
+[Info   :   BepInEx] Loading [Custom Boombox Music 1.4.0]
+[Info   :Custom Boombox Music] Loading...
+[Info   :Custom Boombox Music] Created directory at C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music
+[Info   :Custom Boombox Music] Initializing config...
+[Info   :Custom Boombox Music] Config initialized!
+[Info   :Custom Boombox Music] Loading Complete!
+[Info   :   BepInEx] Loading [CustomBoomboxFix 1.0.0]
+[Info   :CustomBoomboxFix] Plugin CustomBoomboxFix is loaded!
+[Info   :CustomBoomboxFix] Created 'Custom Songs' folder in plugin directory.
+[Info   :CustomBoomboxFix] Deleting files in 'C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music'...
+[Info   :CustomBoomboxFix] Deleted files in 'C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music'
+[Info   :CustomBoomboxFix] Copied fifth.mp3 from C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\plugins\Tek-BoomBeeverBoxRaveEdition\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied first.mp3 from C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\plugins\Tek-BoomBeeverBoxRaveEdition\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied forth.mp3 from C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\plugins\Tek-BoomBeeverBoxRaveEdition\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied last.mp3 from C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\plugins\Tek-BoomBeeverBoxRaveEdition\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied rave.mp3 from C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\plugins\Tek-BoomBeeverBoxRaveEdition\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied sec.mp3 from C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\plugins\Tek-BoomBeeverBoxRaveEdition\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied third.mp3 from C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\plugins\Tek-BoomBeeverBoxRaveEdition\Custom Songs to Boombox Music folder.
+[Info   :   BepInEx] Loading [Lock Doors Mod 1.1.0]
+[Info   :LockDoorsMod] Lock Doors 1.1.0 :)
+[Info   :   BepInEx] Loading [LethalLib 0.13.2]
+[Info   : LethalLib] LethalLib loaded!!
+[Info   : LethalLib] Utilities.Init()
+[Info   :   BepInEx] Loading [LethalThings 0.9.4]
+[Info   :LethalThings] LethalLib version is 0.13.2, which is compatible with LethalThings 0.9.0+
+[Info   :LethalThings] [Optional dependency] LethalCompanyInputUtils version is 0.6.1, which is compatible with LethalThings 0.8.0+
+[Info   : LethalLib] [LethalLib] LethalThings is registering 26 content items!
+[Info   :LethalThings] LethalThings loaded successfully!!!
+[Info   :   BepInEx] Loading [ExtraDaysToDeadline 2.1.3]
+[Info   :ExtraDaysToDeadline] ExtraDaysToDeadline is loading...
+[Info   :ExtraDaysToDeadline] Installing patches
+[Info   :ExtraDaysToDeadline] Registering built-in Commands
+[Info   :ExtraDaysToDeadline] There are 3 save files
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 1/Use price correlated calculation?"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 1/Use reduce buying rate?"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 2/Use price correlated calculation?"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 2/Use reduce buying rate?"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 3/Use price correlated calculation?"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 3/Use reduce buying rate?"
+[Info   :ExtraDaysToDeadline] Plugin ExtraDaysToDeadline is loaded!
+[Info   :   BepInEx] Loading [FasterItemDropship 1.2.1]
+[Info   :FasterItemDropship] BindingConfigs
+[Info   :FasterItemDropship] FasterItemDropship loaded
+[Info   :   BepInEx] Loading [MoreBlood 1.0.2]
+[Info   : MoreBlood] BindingConfigs
+[Info   : MoreBlood] MoreBlood loaded
+[Info   :   BepInEx] Loading [BoomBoxOverhaul 1.0.0]
+[Info   :BoomBoxOverhaul] BoomBox Upgraded!
+[Info   :   BepInEx] Loading [HideModList 1.0.0]
+[Info   :HideModList] Plugin HideModList is loaded!
+[Info   :   BepInEx] Loading [LethalLevelLoader 1.0.3]
+[Info   :LethalLevelLoader] LethalLevelLoader loaded!!
+[Info   :   BepInEx] Loading [Scarlet Mansion 1.1.6]
+[Info   :ImoutoSama.ScarletMansion] Plugin Scarlet Mansion has been added!
+[Info   :ImoutoSama.ScarletMansion] Loading asset SDMLevel
+[Info   :ImoutoSama.ScarletMansion] Loading asset SDMList
+[Info   :ImoutoSama.ScarletMansion] Loading asset NET_KnightEnemy
+[Info   :ImoutoSama.ScarletMansion] Loading asset KnightNode
+[Info   :ImoutoSama.ScarletMansion] Loading asset KnightKeyword
+[Info   :   BepInEx] Loading [InfiniteEmote 1.3.2]
+[Info   :InfiniteEmote] Plugin InfiniteEmote loading...
+[Info   :InfiniteEmote] Debug enabled: False
+[Info   :InfiniteEmote] Plugin InfiniteEmote is loaded!
+[Info   :   BepInEx] Loading [InfiniteShotgunAmmo 1.0.3]
+[Info   :InfiniteShotgunAmmo] Plugin InfiniteShotgunAmmo is loaded!
+[Info   :   BepInEx] Loading [Lethal Company API 3.4.5]
+[Warning:Lethal Company API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :Lethal Company API] LC_API Starting up..
+[Info   :   BepInEx] Loading [LCBetterSaves 1.7.3]
+[Info   :LCBetterSaves] Plugin LCBetterSaves is loaded!
+[Info   :   BepInEx] Loading [LethalAPI.Terminal 1.0.0]
+[Info   :LethalAPI.Terminal] LethalAPI.Terminal is loading...
+[Info   :LethalAPI.Terminal] Installing patches
+[Info   :LethalAPI.Terminal] Registering built-in Commands
+[Info   :LethalAPI.Terminal] Plugin LethalAPI.Terminal is loaded!
+[Info   :   BepInEx] Loading [LethalExpansion 1.3.25]
+[Info   :LethalExpansion] PluginName: LethalExpansion, VersionString: 1.3.25 is loading...
+[Info   :LethalExpansion] Getting other plugins list
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: LethalConfig - Version: 1.3.4 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: No Monsters - Version: 1.0.0 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: Terminal Api - Version: 1.5.0 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: AlwaysShowClock - Version: 1.0.0 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Fatal  :LethalExpansion] Plugin: BiggerLobby - Version: 2.6.0 - Compatibility: critical
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: BoomboxSyncFix - Version: 1.1.0 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: Lethal Company Input Utils - Version: 0.6.1 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: Custom Boombox Music - Version: 1.4.0 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: CustomBoomboxFix - Version: 1.0.0 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: Lock Doors Mod - Version: 1.1.0 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: LethalLib - Version: 0.13.2 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: LethalThings - Version: 0.9.4 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: ExtraDaysToDeadline - Version: 2.1.3 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: FasterItemDropship - Version: 1.2.1 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: MoreBlood - Version: 1.0.2 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: BoomBoxOverhaul - Version: 1.0.0 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: HideModList - Version: 1.0.0 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: LethalLevelLoader - Version: 1.0.3 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: Scarlet Mansion - Version: 1.1.6 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: InfiniteEmote - Version: 1.3.2 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: InfiniteShotgunAmmo - Version: 1.0.3 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: Lethal Company API - Version: 3.4.5 - Compatibility: good
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: LCBetterSaves - Version: 1.7.3 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion]                               
+[Info   :LethalExpansion] Plugin: LethalAPI.Terminal - Version: 1.0.0 - Compatibility: unknown
+[Info   :LethalExpansion] ------------------------------
+[Info   :LethalExpansion] Plugins folder found: C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\plugins
+[Info   :LethalExpansion] Mod path is: C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\plugins\HolographicWings-LethalExpansion
+[Info   :LethalExpansion] Module found: KazooMod v1.0.9.0 Loaded in 11ms
+[Info   :LethalExpansion] Water support applied to the HDRenderPipelineAsset.
+[Info   :LethalExpansion] PluginName: LethalExpansion, VersionString: 1.3.25 is loaded.
+[Info   :   BepInEx] Loading [HealthMetrics 1.0.0]
+[Info   :Matsuura.HealthMetrics] HealthMetrics Awake
+[Info   :   BepInEx] Loading [Buyable Shotgun 1.0.4]
+[Info   :Buyable Shotgun] Shotgun added to Shop for 700 credits
+[Info   :Buyable Shotgun] Plugin Buyable Shotgun is loaded with version 1.0.4!
+[Info   :   BepInEx] Loading [RuntimeNetcodeRPCValidator 0.2.5]
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 1.3.3]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SignEmoteText.
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SyncAnimatorToOthers.
+[Info   :RuntimeNetcodeRPCValidator] Successfully registered first patch for type PlayerControllerB.Awake | Triggered by MoreEmotes
+[Info   :   BepInEx] Loading [Better Teleport Mod 1.0.0]
+[Info   :Poseidon.LCbetterTeleport] The Teleport Mod is Active
+[Info   :   BepInEx] Loading [PushCompany 1.2.0]
+[Info   :PushCompany] PushCompany has initialized!
+[Info   :   BepInEx] Loading [Custom Boombox Music (Fixed) 1.0.2]
+[Info   :Custom Boombox Music (Fixed)] Loading...
+[Info   :Custom Boombox Music (Fixed)] Initializing config...
+[Info   :Custom Boombox Music (Fixed)] Config initialized!
+[Info   :Custom Boombox Music (Fixed)] Loading Complete! Yoinked by rafl :)
+[Info   :   BepInEx] Loading [TVLoader 1.1.1]
+[Info   :  TVLoader] C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\plugins\Tek-ByBeeverLethalMemesTV has 8 videos.
+[Info   :  TVLoader] Global has 0 videos.
+[Info   :  TVLoader] Loaded 8 total.
+[Info   :  TVLoader] PluginName: TVLoader, VersionString: 1.1.1 is loaded. Video Count: 8
+[Info   :   BepInEx] Loading [BetterSprint 1.0.0]
+[Info   :SamBjork.BetterSprint] ITS ALIVE!
+[Info   :   BepInEx] Loading [Scoopy's Variety Mod 0.6.4]
+[Info   :ScoopysVarietyMod] Custom Scrap Loaded Successfully
+[Info   :ScoopysVarietyMod] Unpacking Castle Dungeon Assets...
+[Info   :ScoopysVarietyMod] Initialising dungeon preferences...
+[Info   :ScoopysVarietyMod] Registered dungeon interior on all vanilla moons.
+[Info   :ScoopysVarietyMod] Initialised Successfully
+[Info   :   BepInEx] Loading [SCPCBDunGen 2.2.0]
+[Info   :SCPCBDunGen] Registering SCP dungeon for predefined moon list.
+[Info   :SCPCBDunGen] Registering SCP dungeon for moon Titan at default rarity 100
+[Info   :SCPCBDunGen] Registering SCP dungeon for moon Secret Labs at default rarity 100
+[Info   :SCPCBDunGen] SCP:CB DunGen for Lethal Company [Version 2.2.0] successfully loaded.
+[Info   :   BepInEx] Loading [CompanyExecutive 3.0.0]
+[Message:Terminal Api] Not in game, waiting to be in game to add executive toggle keyword.
+[Message:Terminal Api] Not in game, waiting to be in game to add executive consistent keyword.
+[Message:Terminal Api] Not in game, waiting to be in game to add executive override keyword.
+[Message:Terminal Api] Not in game, waiting to be in game to add executive give keyword.
+[Info   :CompanyExecutive] Plugin CompanyExecutive is loaded!
+[Info   :   BepInEx] Loading [More Suits 1.4.1]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Message:Lethal Company API] A plugin has set your game to only allow you to play with other people who have mods!
+[Info   :Lethal Company API] LC_API Started!
+[Info   : Unity Log] LethalLevelLoader: Finding LethalBundles!
+[Info   :LethalExpansion] Loading scene: InitSceneLaunchOptions
+[Info   :Buyable Shotgun] Scene "InitSceneLaunchOptions" loaded with 2 mode.
+[Info   : Unity Log] Saving changed settings
+[Info   :LethalExpansion] Unloading scene: InitSceneLaunchOptions
+[Info   : Unity Log] subcribing to steam callbacks
+[Info   :LethalExpansion] Loading scene: InitScene
+[Info   :Buyable Shotgun] Scene "InitScene" loaded with Single mode.
+[Info   :LethalExpansion] itemshipanimcontainer Prefab registered.
+[Info   :LethalExpansion] Kazoo Scrap registered.
+[Info   : Unity Log] LethalLevelLoader: Registering Bundle Content!
+[Info   : Unity Log] LethalLevelLoader: Registered 670 NetworkObject's Found In Custom DungeonFlow: SDMLevel
+[Info   : Unity Log] LethalLevelLoader: Succesfully Restored SpawnEntranceTrigger NetworkPrefab From EntranceTeleportB To EntranceTeleportB
+[Info   : Unity Log] LethalLevelLoader: Succesfully Restored VentSpawner NetworkPrefab From VentEntrance To VentEntrance
+[Info   : Unity Log] LethalLevelLoader: Succesfully Restored SpawnEntranceTrigger NetworkPrefab From EntranceTeleportA To EntranceTeleportA
+[Info   : Unity Log] LethalLevelLoader: Registered 184 NetworkObject's Found In Custom DungeonFlow: CastleFlow
+[Info   : Unity Log] LethalLevelLoader: Registered 141 NetworkObject's Found In Custom DungeonFlow: SCPFlow
+[Info   : Unity Log] LethalLevelLoader: Trying To Register Prefab: NET_Door180_Prefab (UnityEngine.GameObject)
+[Info   : Unity Log] LethalLevelLoader: Trying To Register Prefab: NET_SpawnEntranceA (UnityEngine.GameObject)
+[Info   : Unity Log] LethalLevelLoader: Trying To Register Prefab: NET_Door90_Prefab (UnityEngine.GameObject)
+[Info   : Unity Log] LethalLevelLoader: Trying To Register Prefab: NET_TrapVentEntrance (UnityEngine.GameObject)
+[Info   : Unity Log] LethalLevelLoader: Trying To Register Prefab: RoundWoodDoor (UnityEngine.GameObject)
+[Info   : Unity Log] LethalLevelLoader: Trying To Register Prefab: CellDoorFull (UnityEngine.GameObject)
+[Info   : Unity Log] LethalLevelLoader: Trying To Register Prefab: SCPDoorBtn (UnityEngine.GameObject)
+[Info   : Unity Log] LethalLevelLoader: Trying To Register Prefab: 914_Controls (UnityEngine.GameObject)
+[Info   : Unity Log] LethalLevelLoader: Skipped Registering 987 NetworkObjects As They Were Already Registered.
+[Error  : Unity Log] Panel label not found.
+[Error  : Unity Log] Delete file game object not found.
+[Error  : Unity Log] Error occurred while refreshing save buttons: Object reference not set to an instance of an object
+[Error  : Unity Log] Error occurred while updating files panel rect: Failed to find FilesPanel RectTransform.
+[Error  : Unity Log] An error occurred during initialization: Object reference not set to an instance of an object
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Info   :LethalExpansion] Unloading scene: InitScene
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :LethalExpansion] Loading scene: MainMenu
+[Info   :Buyable Shotgun] Scene "MainMenu" loaded with Single mode.
+[Info   : Unity Log] Returning week num: 6
+[Info   : Unity Log] week num: 6
+[Info   : Unity Log] Positioning based on 3 saves.
+[Info   : Unity Log] Found file: LCSaveFile1
+[Info   : Unity Log] Found file: LCSaveFile2
+[Info   : Unity Log] Found file: LCSaveFile3
+[Info   : Unity Log] Renamed LCSaveFile1 to TempFile1
+[Info   : Unity Log] Renamed LCSaveFile2 to TempFile2
+[Info   : Unity Log] Renamed LCSaveFile3 to TempFile3
+[Info   : Unity Log] Renamed TempFile1 to LCSaveFile1
+[Info   : Unity Log] Renamed TempFile2 to LCSaveFile2
+[Info   : Unity Log] Renamed TempFile3 to LCSaveFile3
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Info   :ainavt.lc.lethalconfig] 38 mods loaded: ainavt.lc.lethalconfig;AngelMadeline.NoMonsters;atomic.terminalapi;AUniqueName.AlwaysShowClock;BiggerLobby;BoomboxSyncFix;com.rune580.LethalCompanyInputUtils;com.steven.lethalcompany.boomboxmusic;CustomBoomboxFix;ENZDS.LockDoorsMod;evaisa.lethallib;evaisa.lethalthings;ExtraDaysToDeadline;FlipMods.FasterItemDropship;FlipMods.MoreBlood;Henrehs.BoomBoxOverhaul;HideModList;imabatby.lethallevelloader;ImoutoSama.ScarletMansion;InfiniteEmote;InfiniteShotgunAmmo;LC_API;LCBetterSaves;LethalAPI.Terminal;LethalExpansion;Matsuura.HealthMetrics;MegaPiggy.BuyableShotgun;NicholaScott.BepInEx.RuntimeNetcodeRPCValidator;MoreEmotes;Poseidon.LCbetterTeleport;PushCompany;rafl.CustomBoomboxMusicFixed;rattenbonkers.TVLoader;SamBjork.BetterSprint;ScoopysVarietyMod;SCPCBDunGen;SoulWithMae.CompanyExecutive;x753.More_Suits
+[Info   :ainavt.lc.lethalconfig] Generated 17 mod entries.
+[Info   :ainavt.lc.lethalconfig] Generated 156 configs, of which 142 were missing and registered.
+[Info   : Unity Log] host button pressed
+[Info   : Unity Log] Returning week num: 6
+[Info   : Unity Log] SETTING MAX PLAYERS TO 16!
+[Info   : Unity Log] Displaying menu message
+[Info   : Unity Log] Connection approval callback! Game version of client request: 
+[Info   : Unity Log] Joining client id: 0; Local/host client id: 0
+[Info   : Unity Log] Stopped connection approval callback, as the client in question was the host!
+[Warning: Unity Log] [Netcode] You cannot decline the host connection. The connection was automatically approved.
+[Info   : Unity Log] started host!
+[Info   : Unity Log] are we in a server?: True
+[Info   :LethalExpansion] LethalExpansion Host Started.
+[Message:Lethal Company API] server pre-setup success
+[Info   : Unity Log] Lobby has been created
+[Warning: Unity Log] Validation check success for scene: SampleSceneRelay
+[Info   :LethalExpansion] Unloading scene: MainMenu
+[Info   :LethalThings] Spawning config manager
+[Info   :Custom Boombox Music] Preparing to load AudioClips...
+[Info   :Custom Boombox Music] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\fifth.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\first.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\forth.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\last.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\rave.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\sec.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\third.mp3!
+[Info   :Custom Boombox Music (Fixed)] Preparing to load AudioClips...
+[Info   :Custom Boombox Music (Fixed)] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\fifth.mp3!
+[Info   :Custom Boombox Music (Fixed)] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\first.mp3!
+[Info   :Custom Boombox Music (Fixed)] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\forth.mp3!
+[Info   :Custom Boombox Music (Fixed)] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\last.mp3!
+[Info   :Custom Boombox Music (Fixed)] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\rave.mp3!
+[Info   :Custom Boombox Music (Fixed)] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\sec.mp3!
+[Info   :Custom Boombox Music (Fixed)] Loading C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\third.mp3!
+[Info   : LethalLib] Added Boomba to ExperimentationLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to AssuranceLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to VowLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to CompanyBuildingLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to MarchLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to RendLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to DineLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to OffenseLevel with SpawnType [Default]
+[Info   : LethalLib] Added Boomba to TitanLevel with SpawnType [Default]
+[Info   : LethalLib] Added TeleporterTrap to ExperimentationLevel
+[Info   : LethalLib] Added TeleporterTrap to AssuranceLevel
+[Info   : LethalLib] Added TeleporterTrap to VowLevel
+[Info   : LethalLib] Added TeleporterTrap to CompanyBuildingLevel
+[Info   : LethalLib] Added TeleporterTrap to MarchLevel
+[Info   : LethalLib] Added TeleporterTrap to RendLevel
+[Info   : LethalLib] Added TeleporterTrap to DineLevel
+[Info   : LethalLib] Added TeleporterTrap to OffenseLevel
+[Info   : LethalLib] Added TeleporterTrap to TitanLevel
+[Info   : Unity Log] Enabling connection callbacks in StartOfRound
+[Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   : LethalLib] Adding 4 unlockables to unlockables list
+[Info   : LethalLib] Adding 4 items to terminal
+[Info   : LethalLib] LethalLib registered item: Small Rug
+[Info   : LethalLib] LethalLib registered item: Large Rug
+[Info   : LethalLib] LethalLib registered item: Fatalities Sign
+[Info   : LethalLib] LethalLib registered item: Dartboard
+[Info   : LethalLib] Added ArsonPlush to ExperimentationLevel
+[Info   : LethalLib] Added ArsonPlush to AssuranceLevel
+[Info   : LethalLib] Added ArsonPlush to VowLevel
+[Info   : LethalLib] Added ArsonPlush to CompanyBuildingLevel
+[Info   : LethalLib] Added ArsonPlush to MarchLevel
+[Info   : LethalLib] Added ArsonPlush to RendLevel
+[Info   : LethalLib] Added ArsonPlush to DineLevel
+[Info   : LethalLib] Added ArsonPlush to OffenseLevel
+[Info   : LethalLib] Added ArsonPlush to TitanLevel
+[Info   : LethalLib] Added CookieFumo to ExperimentationLevel
+[Info   : LethalLib] Added CookieFumo to AssuranceLevel
+[Info   : LethalLib] Added CookieFumo to VowLevel
+[Info   : LethalLib] Added CookieFumo to CompanyBuildingLevel
+[Info   : LethalLib] Added CookieFumo to MarchLevel
+[Info   : LethalLib] Added CookieFumo to RendLevel
+[Info   : LethalLib] Added CookieFumo to DineLevel
+[Info   : LethalLib] Added CookieFumo to OffenseLevel
+[Info   : LethalLib] Added CookieFumo to TitanLevel
+[Info   : LethalLib] Added ToimariPlush to ExperimentationLevel
+[Info   : LethalLib] Added ToimariPlush to AssuranceLevel
+[Info   : LethalLib] Added ToimariPlush to VowLevel
+[Info   : LethalLib] Added ToimariPlush to CompanyBuildingLevel
+[Info   : LethalLib] Added ToimariPlush to MarchLevel
+[Info   : LethalLib] Added ToimariPlush to RendLevel
+[Info   : LethalLib] Added ToimariPlush to DineLevel
+[Info   : LethalLib] Added ToimariPlush to OffenseLevel
+[Info   : LethalLib] Added ToimariPlush to TitanLevel
+[Info   : LethalLib] Added HamisPlush to ExperimentationLevel
+[Info   : LethalLib] Added HamisPlush to AssuranceLevel
+[Info   : LethalLib] Added HamisPlush to VowLevel
+[Info   : LethalLib] Added HamisPlush to CompanyBuildingLevel
+[Info   : LethalLib] Added HamisPlush to MarchLevel
+[Info   : LethalLib] Added HamisPlush to RendLevel
+[Info   : LethalLib] Added HamisPlush to DineLevel
+[Info   : LethalLib] Added HamisPlush to OffenseLevel
+[Info   : LethalLib] Added HamisPlush to TitanLevel
+[Info   : LethalLib] Added ArsonPlushDirty to ExperimentationLevel
+[Info   : LethalLib] Added ArsonPlushDirty to AssuranceLevel
+[Info   : LethalLib] Added ArsonPlushDirty to VowLevel
+[Info   : LethalLib] Added ArsonPlushDirty to CompanyBuildingLevel
+[Info   : LethalLib] Added ArsonPlushDirty to MarchLevel
+[Info   : LethalLib] Added ArsonPlushDirty to RendLevel
+[Info   : LethalLib] Added ArsonPlushDirty to DineLevel
+[Info   : LethalLib] Added ArsonPlushDirty to OffenseLevel
+[Info   : LethalLib] Added ArsonPlushDirty to TitanLevel
+[Info   : LethalLib] Added Dingus to ExperimentationLevel
+[Info   : LethalLib] Added Dingus to AssuranceLevel
+[Info   : LethalLib] Added Dingus to VowLevel
+[Info   : LethalLib] Added Dingus to CompanyBuildingLevel
+[Info   : LethalLib] Added Dingus to MarchLevel
+[Info   : LethalLib] Added Dingus to RendLevel
+[Info   : LethalLib] Added Dingus to DineLevel
+[Info   : LethalLib] Added Dingus to OffenseLevel
+[Info   : LethalLib] Added Dingus to TitanLevel
+[Info   : LethalLib] Added glizzy to ExperimentationLevel
+[Info   : LethalLib] Added glizzy to AssuranceLevel
+[Info   : LethalLib] Added glizzy to VowLevel
+[Info   : LethalLib] Added glizzy to CompanyBuildingLevel
+[Info   : LethalLib] Added glizzy to MarchLevel
+[Info   : LethalLib] Added glizzy to RendLevel
+[Info   : LethalLib] Added glizzy to DineLevel
+[Info   : LethalLib] Added glizzy to OffenseLevel
+[Info   : LethalLib] Added glizzy to TitanLevel
+[Info   : LethalLib] Added Toygun to ExperimentationLevel
+[Info   : LethalLib] Added Toygun to AssuranceLevel
+[Info   : LethalLib] Added Toygun to VowLevel
+[Info   : LethalLib] Added Toygun to CompanyBuildingLevel
+[Info   : LethalLib] Added Toygun to MarchLevel
+[Info   : LethalLib] Added Toygun to RendLevel
+[Info   : LethalLib] Added Toygun to DineLevel
+[Info   : LethalLib] Added Toygun to OffenseLevel
+[Info   : LethalLib] Added Toygun to TitanLevel
+[Info   : LethalLib] Added GremlinEnergy to ExperimentationLevel
+[Info   : LethalLib] Added GremlinEnergy to AssuranceLevel
+[Info   : LethalLib] Added GremlinEnergy to VowLevel
+[Info   : LethalLib] Added GremlinEnergy to CompanyBuildingLevel
+[Info   : LethalLib] Added GremlinEnergy to MarchLevel
+[Info   : LethalLib] Added GremlinEnergy to RendLevel
+[Info   : LethalLib] Added GremlinEnergy to DineLevel
+[Info   : LethalLib] Added GremlinEnergy to OffenseLevel
+[Info   : LethalLib] Added GremlinEnergy to TitanLevel
+[Info   : LethalLib] Added ToyHammer to ExperimentationLevel
+[Info   : LethalLib] Added ToyHammer to AssuranceLevel
+[Info   : LethalLib] Added ToyHammer to VowLevel
+[Info   : LethalLib] Added ToyHammer to CompanyBuildingLevel
+[Info   : LethalLib] Added ToyHammer to MarchLevel
+[Info   : LethalLib] Added ToyHammer to RendLevel
+[Info   : LethalLib] Added ToyHammer to DineLevel
+[Info   : LethalLib] Added ToyHammer to OffenseLevel
+[Info   : LethalLib] Added ToyHammer to TitanLevel
+[Info   : LethalLib] Added GnarpyPlush to ExperimentationLevel
+[Info   : LethalLib] Added GnarpyPlush to AssuranceLevel
+[Info   : LethalLib] Added GnarpyPlush to VowLevel
+[Info   : LethalLib] Added GnarpyPlush to CompanyBuildingLevel
+[Info   : LethalLib] Added GnarpyPlush to MarchLevel
+[Info   : LethalLib] Added GnarpyPlush to RendLevel
+[Info   : LethalLib] Added GnarpyPlush to DineLevel
+[Info   : LethalLib] Added GnarpyPlush to OffenseLevel
+[Info   : LethalLib] Added GnarpyPlush to TitanLevel
+[Info   : LethalLib] Added WeezerGuitar to ExperimentationLevel
+[Info   : LethalLib] Added WeezerGuitar to AssuranceLevel
+[Info   : LethalLib] Added WeezerGuitar to VowLevel
+[Info   : LethalLib] Added WeezerGuitar to CompanyBuildingLevel
+[Info   : LethalLib] Added WeezerGuitar to MarchLevel
+[Info   : LethalLib] Added WeezerGuitar to RendLevel
+[Info   : LethalLib] Added WeezerGuitar to DineLevel
+[Info   : LethalLib] Added WeezerGuitar to OffenseLevel
+[Info   : LethalLib] Added WeezerGuitar to TitanLevel
+[Info   : LethalLib] Added FireAxe to RendLevel
+[Info   : LethalLib] Added FireAxe to DineLevel
+[Info   : LethalLib] Added FireAxe to TitanLevel
+[Info   : LethalLib] Registered scrap item: Arson Plush
+[Info   : LethalLib] Registered scrap item: Cookie Fumo
+[Info   : LethalLib] Registered scrap item: Toimari Plush
+[Info   : LethalLib] Registered scrap item: Hamis Plush
+[Info   : LethalLib] Registered scrap item: Dirty Arson Plush
+[Info   : LethalLib] Registered scrap item: Maxwell
+[Info   : LethalLib] Registered scrap item: Glizzy
+[Info   : LethalLib] Registered scrap item: Revolver
+[Info   : LethalLib] Registered scrap item: Gremlin Can
+[Info   : LethalLib] Registered scrap item: Toy Hammer
+[Info   : LethalLib] Registered scrap item: Gnarpy Plush
+[Info   : LethalLib] ScarletMansion registered scrap item: Decorative crystal
+[Info   : LethalLib] ScoopysVarietyMod registered scrap item: Weezer Guitar
+[Info   : LethalLib] ScoopysVarietyMod registered scrap item: Fire Axe
+[Info   : LethalLib] Registered shop item: Rocket Launcher
+[Info   : LethalLib] Registered shop item: Flaregun
+[Info   : LethalLib] Registered shop item: Emergency Flare (ammo)
+[Info   : LethalLib] Registered shop item: Toy Hammer
+[Info   : LethalLib] Registered shop item: Remote Radar
+[Info   : LethalLib] Registered shop item: Utility Belt
+[Info   : LethalLib] Registered shop item: Hacking Tool
+[Info   : LethalLib] Registered shop item: Pinger
+[Info   : LethalLib] BuyableShotgun registered shop item: Shotgun
+[Info   : LethalLib] Registered item: Dart
+[Info   : LethalLib] Adding 9 items to terminal
+[Info   : LethalLib] Adding Rocket Launcher to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 300, Item index: 13
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 300, Item index: 13
+[Info   : LethalLib] Generated keyword: rocket-launcher
+[Info   : LethalLib] Adding Flaregun to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 100, Item index: 14
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 100, Item index: 14
+[Info   : LethalLib] Generated keyword: flaregun
+[Info   : LethalLib] Adding Emergency Flare (ammo) to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 20, Item index: 15
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 20, Item index: 15
+[Info   : LethalLib] Generated keyword: emergency-flare-(ammo)
+[Info   : LethalLib] Adding Toy Hammer to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 15, Item index: 16
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 15, Item index: 16
+[Info   : LethalLib] Generated keyword: toy-hammer
+[Info   : LethalLib] Adding Remote Radar to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 150, Item index: 17
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 150, Item index: 17
+[Info   : LethalLib] Generated keyword: remote-radar
+[Info   : LethalLib] Adding Utility Belt to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 290, Item index: 18
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 290, Item index: 18
+[Info   : LethalLib] Generated keyword: utility-belt
+[Info   : LethalLib] Adding Hacking Tool to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 120, Item index: 19
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 120, Item index: 19
+[Info   : LethalLib] Generated keyword: hacking-tool
+[Info   : LethalLib] Adding Pinger to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 100, Item index: 20
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 100, Item index: 20
+[Info   : LethalLib] Generated keyword: pinger
+[Info   : LethalLib] Adding Shotgun to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 700, Item index: 21
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 700, Item index: 21
+[Info   : LethalLib] Generated keyword: shotgun
+[Message:Terminal Api] In game, applying any changes now.
+[Message:Terminal Api] Added executive toggle keyword to terminal keywords.
+[Message:Terminal Api] Added executive consistent keyword to terminal keywords.
+[Message:Terminal Api] Added executive override keyword to terminal keywords.
+[Message:Terminal Api] Added executive give keyword to terminal keywords.
+[Info   :ImoutoSama.ScarletMansion] Properly read level2 dungeon flow to find values to reference
+[Info   : Unity Log] LethalLevelLoader: Adding AudioMixerGroup: Master To Vanilla Reference List!
+[Info   : Unity Log] LethalLevelLoader: Adding AudioMixerGroup: SFX To Vanilla Reference List!
+[Info   : Unity Log] LethalLevelLoader: Adding AudioMixerGroup: Master To Vanilla Reference List!
+[Info   : Unity Log] LethalLevelLoader: Adding AudioMixerGroup: SFX To Vanilla Reference List!
+[Info   : Unity Log] LethalLevelLoader: Obtained (92 / 68) Vanilla Item References
+[Info   : Unity Log] LethalLevelLoader: Obtained (21 / 20) Vanilla Enemy References
+[Info   : Unity Log] LethalLevelLoader: Obtained (11 / 11) Vanilla Outside Object References
+[Info   : Unity Log] LethalLevelLoader: Obtained (3 / 2) Vanilla Inside Object References
+[Info   : Unity Log] LethalLevelLoader: Obtained (3 / 3) Vanilla Ambience Library References
+[Info   : Unity Log] LethalLevelLoader: Obtained (4 / 00) Vanilla Audio Mixing Group References
+[Info   : Unity Log] LethalLevelLoader: AudioMixerGroup Name: Master
+[Info   : Unity Log] LethalLevelLoader: AudioMixerGroup Name: SFX
+[Info   : Unity Log] LethalLevelLoader: AudioMixerGroup Name: Master
+[Info   : Unity Log] LethalLevelLoader: AudioMixerGroup Name: SFX
+[Info   : Unity Log] LethalLevelLoader: Creating ExtendedDungeonFlows For Vanilla DungeonFlows
+[Info   : Unity Log] LethalLevelLoader: Adding Dungeon Flow: Level1Flow
+[Info   : Unity Log] LethalLevelLoader: Adding Dungeon Flow: Level2Flow
+[Info   : Unity Log] LethalLevelLoader: Adding Dungeon Flow: Level1FlowExtraLarge
+[Info   : Unity Log] LethalLevelLoader: Creating ExtendedLevels For Vanilla SelectableLevels
+[Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Experimentation
+[Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Assurance
+[Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Vow
+[Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Gordion
+[Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: March
+[Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Rend
+[Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Dine
+[Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Offense
+[Info   : Unity Log] LethalLevelLoader: Creating New Extended Level For Moon: Titan
+[Info   : Unity Log] LethalLevelLoader: Adding Dungeon Flow: SDMLevel
+[Info   : Unity Log] LethalLevelLoader: Adding Dungeon Flow: CastleFlow
+[Info   : Unity Log] LethalLevelLoader: Adding Dungeon Flow: SCPFlow
+[Info   :LethalExpansion] Loading scene: SampleSceneRelay
+[Debug  :LethalExpansion] Hotfix: Removing duplicated routes
+[Debug  :LethalExpansion] 7route duplicated route removed.
+[Debug  :LethalExpansion] Hotfix: 1 duplicated route(s) removed
+[Info   :LethalExpansion] Kazoo Scrap added.
+[Info   :LethalExpansion] Terminal reset.
+[Info   :LethalExpansion] Kazoo Scrap patched recursively.
+[Info   :LethalExpansion] Moon route price updated.
+[Info   :Buyable Shotgun] Scene "SampleSceneRelay" loaded with Single mode.
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Info   : LethalLib] Diagetic mixer is Diagetic
+[Info   : LethalLib] Found 25 prefabs to fix
+[Info   : LethalLib] Set mixer group for TeleporterTrap in TeleporterTrap to Diagetic:SFX
+[Info   : LethalLib] Set mixer group for Idle in TeleporterTrap to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Boomba in Boomba to Diagetic:Master
+[Info   : LethalLib] Set mixer group for FarAudio in Boomba to Diagetic:SFX
+[Info   : LethalLib] Set mixer group for Idle in Boomba to Diagetic:Master
+[Info   : LethalLib] Set mixer group for PlacementCollider in Dartboard to Diagetic:Master
+[Info   : LethalLib] Set mixer group for PlacementCollider in Sign to Diagetic:Master
+[Info   : LethalLib] Set mixer group for PlacementCollider in Rug2 to Diagetic:Master
+[Info   : LethalLib] Set mixer group for PlacementCollider in Rug to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Dart in Dart to Diagetic:Master
+[Info   : LethalLib] Set mixer group for PingTool in PingTool to Diagetic:Master
+[Info   : LethalLib] Set mixer group for HackingTool in HackingTool to Diagetic:Master
+[Info   : LethalLib] Set mixer group for PouchItem in PouchItem to Diagetic:Master
+[Info   : LethalLib] Set mixer group for HandheldRadar in HandheldRadar to Diagetic:Master
+[Info   : LethalLib] Set mixer group for FlaregunAmmo in FlaregunAmmo to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Flaregun in Flaregun to Diagetic:Master
+[Info   : LethalLib] Set mixer group for RocketLauncher in RocketLauncher to Diagetic:Master
+[Info   : LethalLib] Set mixer group for GnarpyPlush in GnarpyPlush to Diagetic:Master
+[Info   : LethalLib] Set mixer group for ToyHammer in ToyHammer to Diagetic:Master
+[Info   : LethalLib] Set mixer group for GremlinEnergy in GremlinEnergy to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Toygun in Toygun to Diagetic:Master
+[Info   : LethalLib] Set mixer group for glizzy in glizzy to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Dingus in Dingus to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Music in Dingus to Diagetic:Master
+[Info   : LethalLib] Set mixer group for Purr in Dingus to Diagetic:Master
+[Info   : LethalLib] Set mixer group for ArsonPlushDirty in ArsonPlushDirty to Diagetic:Master
+[Info   : LethalLib] Set mixer group for HamisPlush in HamisPlush to Diagetic:Master
+[Info   : LethalLib] Set mixer group for ToimariPlush in ToimariPlush to Diagetic:Master
+[Info   : LethalLib] Set mixer group for CookieFumo in CookieFumo to Diagetic:Master
+[Info   : LethalLib] Set mixer group for ArsonPlush in ArsonPlush to Diagetic:Master
+[Info   : Unity Log] level id: 0
+[Info   : Unity Log] Changing level
+[Info   :LethalExpansion] [sync]1|0>-1|hostweathers=-1&1&-1&-1&4&5&5&4&3[sync]
+[Info   :LethalExpansion] [sync]1|0>-1|hostweathers=-1&1&-1&-1&4&5&5&4&3[sync]
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Info   : Unity Log] Item sales percentages #13: 0
+[Info   : Unity Log] Item sales percentages #14: 0
+[Info   : Unity Log] Item sales percentages #15: 0
+[Info   : Unity Log] Item sales percentages #16: 0
+[Info   : Unity Log] Item sales percentages #17: 0
+[Info   : Unity Log] Item sales percentages #18: 0
+[Info   : Unity Log] Item sales percentages #19: 0
+[Info   : Unity Log] Item sales percentages #20: 0
+[Info   : Unity Log] Item sales percentages #21: 0
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Key 'shipGrabbableItems' does not exist
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Info   : Unity Log] Item sales percentages #13: 0
+[Info   : Unity Log] Item sales percentages #14: 0
+[Info   : Unity Log] Item sales percentages #15: 0
+[Info   : Unity Log] Item sales percentages #16: 0
+[Info   : Unity Log] Item sales percentages #17: 0
+[Info   : Unity Log] Item sales percentages #18: 0
+[Info   : Unity Log] Item sales percentages #19: 0
+[Info   : Unity Log] Item sales percentages #20: 0
+[Info   : Unity Log] Item sales percentages #21: 0
+[Info   : Unity Log] Group credits: 60
+[Info   : Unity Log] Can't add component 'RectTransform' to ScrollViewport because such a component is already added to the game object!
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into quick menu...
+[Info   :ExtraDaysToDeadline] Saved deadlineDaysAmount to disk and then loaded, deadlineDaysAmount: 3
+[Info   :ExtraDaysToDeadline] Deadline days amount: 3 (To calculate buying rate)
+[Error  :ExtraDaysToDeadline] Could not find save file. Using defaults configuration for save files
+[Warning:ainavt.lc.lethalconfig] Ignoring duplicated config "ExtraDaysToDeadline/Save File 1/Use price correlated calculation?"
+[Warning:ainavt.lc.lethalconfig] Ignoring duplicated config "ExtraDaysToDeadline/Save File 1/Use reduce buying rate?"
+[Info   :ExtraDaysToDeadline] Buying rate recalculated
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   : Unity Log] Starting voice tracking for player: Buzzkillionair
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   :Custom Boombox Music] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\fifth.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\first.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\forth.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\last.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\rave.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\sec.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\third.mp3
+[Info   :Custom Boombox Music (Fixed)] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\fifth.mp3
+[Info   :Custom Boombox Music (Fixed)] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\first.mp3
+[Info   :Custom Boombox Music (Fixed)] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\forth.mp3
+[Info   :Custom Boombox Music (Fixed)] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\last.mp3
+[Info   :Custom Boombox Music (Fixed)] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\rave.mp3
+[Info   :Custom Boombox Music (Fixed)] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\sec.mp3
+[Info   :Custom Boombox Music (Fixed)] Loaded C:\Users\Sean\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Hide n seek\BepInEx\Custom Songs\Boombox Music\third.mp3
+[Info   : Unity Log] Has beta?: {hasBeta}
+[Info   : Unity Log] Has beta save data: True
+[Info   :ImoutoSama.ScarletMansion] Loading SDM with predefined moon list
+[Info   :ImoutoSama.ScarletMansion] Clearing previous custom dungeon load
+[Info   :ImoutoSama.ScarletMansion] Tried to remove ManualPlanetNameReference: (Rend, 0) but it's already gone
+[Info   :ImoutoSama.ScarletMansion] Tried to remove ManualPlanetNameReference: (Dine, 0) but it's already gone
+[Info   :ImoutoSama.ScarletMansion] Tried to remove ManualPlanetNameReference: (Titan, 0) but it's already gone
+[Info   :ImoutoSama.ScarletMansion] Loading SDM to default snow moons
+[Info   :ImoutoSama.ScarletMansion] Added ManualPlanetNameReference: (Dine, 300)
+[Info   :ImoutoSama.ScarletMansion] Added ManualPlanetNameReference: (Rend, 300)
+[Info   :ImoutoSama.ScarletMansion] Added ManualPlanetNameReference: (Titan, 69)
+[Info   :ImoutoSama.ScarletMansion] Set networked config values
+[Warning: Unity Log] [Dissonance:Recording] (18:58:41.794) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:11.31203)
+[Warning:Lethal Company API] Asking all other players for their mod list..
+[Warning: Unity Log] [Dissonance:Recording] (18:58:45.361) BasicMicrophoneCapture: Insufficient buffer space, requested 17280, clamped to 16383 (dropping 897 samples)
+[Warning: Unity Log] [Dissonance:Recording] (18:58:45.363) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (18:58:45.364) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (18:58:45.365) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (18:58:45.366) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (18:58:45.366) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.2294074)
+[Warning: Unity Log] [Dissonance:Recording] (18:59:08.978) BasicMicrophoneCapture: Insufficient buffer space, requested 16800, clamped to 16383 (dropping 417 samples)
+[Warning: Unity Log] [Dissonance:Recording] (18:59:08.981) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (18:59:08.982) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (18:59:08.983) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (18:59:08.984) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (18:59:09.007) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.3614756)
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] Set interminalmenu to true: True
+[Info   :   Console] Run text post process
+[Info   :ExtraDaysToDeadline] Loaded deadlineDaysAmount from disk, deadlineDaysAmount: 3
+[Info   :ExtraDaysToDeadline] Deadline days amount: 3 (To calculate buying rate)
+[Error  :ExtraDaysToDeadline] Could not find save file. Using defaults configuration for save files
+[Warning:ainavt.lc.lethalconfig] Ignoring duplicated config "ExtraDaysToDeadline/Save File 1/Use price correlated calculation?"
+[Warning:ainavt.lc.lethalconfig] Ignoring duplicated config "ExtraDaysToDeadline/Save File 1/Use reduce buying rate?"
+[Info   :ExtraDaysToDeadline] Buying rate recalculated
+[Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+[Info   :   Console] Run text post process
+[Info   : Unity Log] Parsed word: shotgun
+[Info   : Unity Log] noun keyword: shotgun ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: ShotgunBuyNode1
+[Info   :   Console] Run text post process
+[Info   :   Console] Run text post process
+[Info   : Unity Log] Parsed word: pro
+[Info   : Unity Log] Parsed word: flashlight
+[Info   : Unity Log] noun keyword: pro flashlight ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: buyProFlashlight1
+[Info   :   Console] Run text post process
+[Info   :   Console] Run text post process
+[Info   : Unity Log] Could not parse word: 4
+[Info   : Unity Log] Parsed word: pro
+[Info   : Unity Log] Parsed word: flashlight
+[Info   : Unity Log] noun keyword: pro flashlight ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: buyProFlashlight1
+[Info   :   Console] Run text post process
+[Info   :   Console] Run text post process
+[Info   : Unity Log] Could not parse word: emotes
+[Info   :   Console] Run text post process
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: True
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
+[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: Buzzkillionair
+[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
+[Info   : Unity Log] Set interminalmenu to true: True
+[Info   :   Console] Run text post process
+[Info   :ExtraDaysToDeadline] Loaded deadlineDaysAmount from disk, deadlineDaysAmount: 3
+[Info   :ExtraDaysToDeadline] Deadline days amount: 3 (To calculate buying rate)
+[Error  :ExtraDaysToDeadline] Could not find save file. Using defaults configuration for save files
+[Warning:ainavt.lc.lethalconfig] Ignoring duplicated config "ExtraDaysToDeadline/Save File 1/Use price correlated calculation?"
+[Warning:ainavt.lc.lethalconfig] Ignoring duplicated config "ExtraDaysToDeadline/Save File 1/Use reduce buying rate?"
+[Info   :ExtraDaysToDeadline] Buying rate recalculated
+[Info   :   Console] Run text post process
+[Info   : Unity Log] Parsed word: vow
+[Info   : Unity Log] noun keyword: vow ; verb keyword: route ; result null? : False
+[Info   : Unity Log] result: 56route
+[Info   :   Console] Run text post process
+[Info   :   Console] Run text post process
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: True
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
+[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: Buzzkillionair
+[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
+[Info   : Unity Log] Lever animation: setting bool to True
+[Info   : Unity Log] Sent lever animation RPC on this client
+[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: Buzzkillionair
+[Warning: Unity Log] Validation check success for scene: Level1Experimentation
+[Info   : Unity Log] Loading scene
+[Info   : Unity Log] Scene that began loading: Level1Experimentation
+[Info   : Unity Log] LOADING GAME!!!!!
+[Info   : Unity Log] Waiting for all players to load!
+[Info   :LethalExpansion] Game started.
+[Warning: Unity Log] One Static Lighting Sky component was already set for baking, only the latest one will be used.
+[Info   : Unity Log] LethalLevelLoader: EntranceTeleport Spawn!EntranceTeleportA
+[Info   : Unity Log] LethalLevelLoader: EntranceTeleport Spawn!EntranceTeleportB
+[Info   :LethalExpansion] Loading scene: Level1Experimentation
+[Info   :Buyable Shotgun] Scene "Level1Experimentation" loaded with Additive mode.
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (6)/Collision/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (7)/Collision (1)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam/Collision (6)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (37)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (1)/Collision (5)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (41)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (11)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (59)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (55)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (4)/Collision (2)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (56)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (5)/Collision (1)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (3)/Collision (3)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (27)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (57)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (2)/Collision (4)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (35)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (4)/Collision (4)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (34)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (7)/Collision (1)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (26)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (4)/Collision (2)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (18)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (38)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (60)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (49)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (51)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (4)/Collision (4)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (15)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (6)/Collision/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (2)/Collision (4)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (10)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (1)/Collision (5)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (17)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam/Collision (6)/Cube (48)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (39)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/CatwalkStairsAlley/Collision/Cube (36)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/AlleyBeams/LargePipeSupportBeam (5)/Collision (1)/Cube (47)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/ChainlinkFence (9)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/Map/ModelsIntroScene/LargePipeSupportBeam (3)/Collision (3)/Cube (47)"
+[Warning: Unity Log] [Dissonance:Recording] (19:00:37.388) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1807596)
+[Debug  :No Monsters] No Monsters: Removed All Enemies
+[Info   : Unity Log] GenerateNewFloor(). Map generator's random seed: 258841390
+[Info   : Unity Log] LethalLevelLoader: Setting DungeonFlow!
+[Info   : Unity Log] LethalLevelLoader: Trying To Find All Matching DungeonFlows For Level: Experimentation
+Potential DungeonFlows Collected, List Below: 
+Level1Flow - 300, Level2Flow - 1, SDMLevel - 0, CastleFlow - 0, SCPFlow - 0, 
+
+Level: Experimentation Level Tags: Vanilla, Wasteland, 
+
+DungeonFlow 1. : Level1Flow - Matched Experimentation With Based On The Levels DungeonFlowTypes!
+
+DungeonFlow 1. : Level2Flow - Matched Experimentation With Based On The Levels DungeonFlowTypes!
+
+DungeonFlow 1. : CastleFlow - Matched Experimentation With CastleFlow Based On Manual Mods List!
+
+Matching DungeonFlows Collected, Count Is: 3
+
+
+[Info   : Unity Log] LethalLevelLoader: Current Level + (Experimentation) Weights List: 
+
+Level1Flow | 300 - Selected DungeonFlow
+Level2Flow | 1
+CastleFlow | 300
+
+
+[Info   : Unity Log] LethalLevelLoader: DungeonGenerator Is: DunGen.DungeonGenerator
+[Info   : Unity Log] LethalLevelLoader: ExtendedLevel Is:  (LethalLevelLoader.ExtendedLevel)
+[Info   : Unity Log] LethalLevelLoader: Scene Is: UnityEngine.SceneManagement.Scene
+[Info   : Unity Log] LethalLevelLoader: RoundManager Is: RoundManager (RoundManager)
+[Info   : Unity Log] LethalLevelLoader: Fire Exit Patch Report, Details Below;
+
+EntranceTeleport's Found, Experimentation Contains 2 Entrances! ( 1 Fire Escapes) 
+Main Entrance: EntranceTeleportA (Entrance ID: 0) (Dungeon ID: 0)
+Alternate Entrance: EntranceTeleportB (Entrance ID: 1) (Dungeon ID: 0)
+Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawnrate Count From (1,1) To (1,1)
+
+
+[Info   : Unity Log] Dungeon finished generating in one frame.
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (25)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (18)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (16)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (15)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (17)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (13)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (24)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (14)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (20)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (11)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (19)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (12)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (21)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (23)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (22)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (26)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe7 (1)/Cube (39)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe7 (1)/Cube (38)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe7 (1)/Cube (37)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe6 (1)/Cube (34)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe6 (1)/Cube (36)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/DoubleDoorRoom(Clone)/Pipes/Pipe6 (1)/Cube (35)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (25)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (18)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (16)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (15)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (17)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (13)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (24)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (14)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (20)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (11)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (19)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (12)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (21)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (23)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (22)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1Split(Clone)/Colliders/StairCollider (26)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (2)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (9)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (10)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/CatwalkTile2x1(Clone)/CatwalkStairs.002/StairCollider (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/MediumRoomHallway1B(Clone)/LungSocketMachine (1)/BigSocket/Collisions/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/MediumRoomHallway1B(Clone)/LungSocketMachine (1)/BigSocket/Collisions/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/MediumRoomHallway1B(Clone)/LungSocketMachine (1)/BigSocket/Collisions/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/MediumRoomHallway1B(Clone)/LungSocketMachine (1)/BigSocket/Collisions/Cube (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/MediumRoomHallway1B(Clone)/LungSocketMachine (1)/BigSocket/Collisions/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/MediumRoomHallway1B(Clone)/LungSocketMachine (1)/BigSocket/Collisions/Cube (2)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/MediumRoomHallway1B(Clone)/LungSocketMachine (1)/BigSocket/Collisions/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Systems/LevelGeneration/LevelGenerationRoot/MediumRoomHallway1B(Clone)/LungSocketMachine (1)/BigSocket/Collisions/Cube (7)"
+[Warning: Unity Log] [Dissonance:Recording] (19:00:41.695) BasicMicrophoneCapture: Insufficient buffer space, requested 192000, clamped to 16383 (dropping 175617 samples)
+[Warning: Unity Log] [Dissonance:Recording] (19:00:41.696) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (19:00:41.718) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:3.892869)
+[Info   : Unity Log] Players finished generating the new floor
+[Warning: Unity Log] [Dissonance:Recording] (19:00:41.867) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.2434045)
+[Info   : Unity Log] Spawning synced props on server. Length: 32
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (SteamValve(Clone)).
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (SteamValve(Clone)).
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (SteamValve(Clone)).
+[Info   : Unity Log] LethalLevelLoader: EntranceTeleport Spawn!EntranceTeleportB(Clone)
+[Info   : Unity Log] LethalLevelLoader: EntranceTeleport Spawn!EntranceTeleportA(Clone)
+[Info   :SCPCBDunGen] No 914 room found.
+[Info   : Unity Log] Number of scrap to spawn: 8. minTotalScrapValue: 80. Total value of items: 0.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] [Dissonance:Recording] (19:00:42.245) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Info   :BoomboxSyncFix] Round has loaded for all -- forcing everyone to reinitialize musicRandomizer.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Setting door BigDoor(Clone) with code d6 to open
+[Info   : Unity Log] setting big door open for door BigDoor(Clone); True; True
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Setting door BigDoor(Clone) with code v0 to open
+[Info   : Unity Log] setting big door open for door BigDoor(Clone); True; True
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Setting door BigDoor(Clone) with code c1 to open
+[Info   : Unity Log] setting big door open for door BigDoor(Clone); True; True
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Switching breaker switches off
+[Info   : Unity Log] loopLimit: 2
+[Info   : Unity Log] switch 0: 1
+[Info   : Unity Log] switch 1: 1
+[Info   : Unity Log] switch was already turned off
+[Info   : Unity Log] Set lever switches
+[Info   : Unity Log] Calling power switch off event from roundmanager
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] bool val: True
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] Turning lights off at start
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] spawn chance range min/max : -5, 2; time of day percent: 0.09259259
+[Info   : Unity Log] spawn chance range min/max (non integer) : -5.64065, 2.35935
+[Info   : Unity Log] base chance daytime: 1.45262
+[Info   : Unity Log] timeuptocurrenthour: 120; totalTime: 1080
+[Info   : Unity Log] AnomalyRandom 2: 5
+[Info   : Unity Log] Anomaly random 3: 30.27635, -1.657592, -22.19245
+[Info   : Unity Log] Anomaly random 3: 57.94064, -2.063657, 22.25159
+[Info   : Unity Log] Anomaly random 3: -33.2558, -4.132317, -25.56813
+[Info   : Unity Log] Anomaly random 3: -34.45477, -2.321975, -9.225763
+[Info   : Unity Log] Anomaly random 3: 32.12511, -2.96016, 41.06708
+[Info   : Unity Log] spawn chance range min/max : -5, 2; time of day percent: 0.09261063
+[Info   : Unity Log] spawn chance range min/max (non integer) : -5.640398, 2.359602
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Centipede
+[Info   : Unity Log] enemy #0 probability - 0
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Bunker Spider
+[Info   : Unity Log] enemy #1 probability - 0
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Hoarding bug
+[Info   : Unity Log] enemy #2 probability - 0
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Flowerman
+[Info   : Unity Log] enemy #3 probability - 0
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Crawler
+[Info   : Unity Log] enemy #4 probability - 0
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Blob
+[Info   : Unity Log] enemy #5 probability - 0
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Girl
+[Info   : Unity Log] enemy #6 probability - 0
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Puffer
+[Info   : Unity Log] enemy #7 probability - 0
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Nutcracker
+[Info   : Unity Log] enemy #8 probability - 0
+[Info   : Unity Log] Setting enemy numberspawned to 0 to start: Boomba
+[Info   : Unity Log] enemy #9 probability - 0
+[Info   : Unity Log] Setting bee random seed: 37220806
+[Info   : Unity Log] Set bee hive random position: (-29.50, -3.63, -12.65)
+[Info   : Unity Log] Set targetfloorposition of hive: (-29.50, -3.13, -12.65)
+[Info   : Unity Log] Setting bee random seed: 37220806
+[Info   : Unity Log] Set bee hive random position: (37.08, -2.77, 37.65)
+[Info   : Unity Log] Set targetfloorposition of hive: (37.08, -2.27, 37.65)
+[Info   : Unity Log] startofround: 0; 0
+[Warning: Unity Log] [Dissonance:Recording] (19:00:43.714) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Info   : Unity Log] clip index: 8; soundType: 2; insanity sounds: False; vol: 0.6984921
+[Info   : Unity Log] clientRPC scrap values length: 8
+[Info   : Unity Log] Current behaviour state: 1
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
+[Info   : Unity Log] Current behaviour state: 0
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 1
+[Info   : Unity Log] player's health after taking 10 damage: 90
+[Info   : Unity Log] Current behaviour state: 1
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
+[Info   : Unity Log] Play time of day sfx
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   :LethalExpansion] Item Grabbed.
+[Info   : Unity Log] Play music!; ; 0.7
+[Info   : Unity Log] Current behaviour state: 0
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 1
+[Info   : Unity Log] Current behaviour state: 1
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
+[Info   : Unity Log] Current behaviour state: 0
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 1
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   :LethalExpansion] Item Grabbed.
+[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   :LethalExpansion] Item Grabbed.
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   :LethalExpansion] Item Grabbed.
+[Info   : Unity Log] Current behaviour state: 1
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
+[Info   : Unity Log] Current behaviour state: 0
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 1
+[Info   : Unity Log] Current behaviour state: 0
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 1
+[Info   : Unity Log] Current behaviour state: 1
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
+[Info   : Unity Log] Current behaviour state: 1
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
+[Info   : Unity Log] Current behaviour state: 1
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] clip index: 10; soundType: 2; insanity sounds: False; vol: 0.3722876
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] base chance daytime: 0.7228957
+[Info   : Unity Log] timeuptocurrenthour: 240; totalTime: 1080
+[Info   : Unity Log] AnomalyRandom 2: 0
+[Info   : Unity Log] spawn chance range min/max : -4, 3; time of day percent: 0.1666744
+[Info   : Unity Log] spawn chance range min/max (non integer) : -4.587562, 3.412438
+[Info   : Unity Log] enemy #0 probability - 0
+[Info   : Unity Log] enemy #1 probability - 0
+[Info   : Unity Log] enemy #2 probability - 0
+[Info   : Unity Log] enemy #3 probability - 0
+[Info   : Unity Log] enemy #4 probability - 0
+[Info   : Unity Log] enemy #5 probability - 0
+[Info   : Unity Log] enemy #6 probability - 0
+[Info   : Unity Log] enemy #7 probability - 0
+[Info   : Unity Log] enemy #8 probability - 0
+[Info   : Unity Log] enemy #9 probability - 0
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Current behaviour state: 1
+[Info   : Unity Log] CHANGING BEHAVIOUR STATE!!! to 0
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Warning: Unity Log] [Dissonance:Recording] (19:02:04.918) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (19:02:04.919) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.222476)
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] Placing object in storage
+[Info   : Unity Log] discard held object called from placeobject
+[Info   : Unity Log] Placing object in storage
+[Info   : Unity Log] discard held object called from placeobject
+[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
+[Info   : Unity Log] Placing object in storage
+[Info   : Unity Log] discard held object called from placeobject
+[Info   : Unity Log] Triggering animated object trigger bool: setting to False
+[Info   : Unity Log] bool val: False
+[Info   : Unity Log] Triggering animated object trigger bool: setting to False
+[Info   : Unity Log] bool val: False
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 0
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 1
+[Info   : Unity Log] Raycasting enemy
+[Info   : Unity Log] Hit enemy, hitDamage: 2
+[Info   : Unity Log] Local client hit enemy RedLocustBees(Clone) with force of 2.
+[Info   : Unity Log] Client #0 hit enemy RedLocustBees(Clone) with force of 2.
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] Calling shoot gun....
+[Info   : Unity Log] Enemies hit: 1
+[Info   : Unity Log] Raycasting enemy
+[Info   : Unity Log] Hit enemy, hitDamage: 2
+[Info   : Unity Log] Local client hit enemy RedLocustBees(Clone) with force of 2.
+[Info   : Unity Log] Client #0 hit enemy RedLocustBees(Clone) with force of 2.
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 2
+[Info   :InfiniteShotgunAmmo] ShotgunItem::PatchShootGun: 999
+[Info   : Unity Log] Calling shoot gun and sync
+[Info   : Unity Log] Shoot gun client rpc received
+[Info   : Unity Log] localClientSendingShootGunRPC was true
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   :InfiniteShotgunAmmo] ShotgunItem::ItemActivate: 999
+[Info   : Unity Log] r/l activate: True
+[Info   : Unity Log] r/l activate: True
+[Info   : Unity Log] r/l activate: True
+[Warning: Unity Log] PlayOneShot was called with a null AudioClip.
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   :LethalExpansion] Item Grabbed.
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] r/l activate: True
+[Info   : Unity Log] r/l activate: True
+[Info   : Unity Log] Placing object in storage
+[Info   : Unity Log] discard held object called from placeobject
+[Info   : Unity Log] Placing object in storage
+[Info   : Unity Log] discard held object called from placeobject
+[Info   : Unity Log] Triggering animated object trigger bool: setting to False
+[Info   : Unity Log] bool val: False
+[Info   : Unity Log] Lever animation: setting bool to False
+[Info   : Unity Log] Sent lever animation RPC on this client
+[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: Buzzkillionair
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] base chance daytime: 0.1680334
+[Info   : Unity Log] timeuptocurrenthour: 360; totalTime: 1080
+[Info   : Unity Log] AnomalyRandom 2: 0
+[Info   : Unity Log] spawn chance range min/max : -2, 5; time of day percent: 0.2778015
+[Info   : Unity Log] spawn chance range min/max (non integer) : -2.839685, 5.160315
+[Info   : Unity Log] enemy #0 probability - 0
+[Info   : Unity Log] enemy #1 probability - 0
+[Info   : Unity Log] enemy #2 probability - 0
+[Info   : Unity Log] enemy #3 probability - 0
+[Info   : Unity Log] enemy #4 probability - 0
+[Info   : Unity Log] enemy #5 probability - 0
+[Info   : Unity Log] enemy #6 probability - 0
+[Info   : Unity Log] enemy #7 probability - 0
+[Info   : Unity Log] enemy #8 probability - 0
+[Info   : Unity Log] enemy #9 probability - 0
+[Info   : Unity Log] Ship is leaving. Despawning props and enemies.
+[Info   : Unity Log] Despawning props and enemies #2
+[Info   : Unity Log] Despawning props and enemies #3
+[Info   : Unity Log] Enemies on map: 5
+[Info   : Unity Log] Despawning enemy: RedLocustBees(Clone)
+[Info   : Unity Log] Despawning enemy: RedLocustBees(Clone)
+[Info   : Unity Log] Despawning enemy: DoublewingedBird(Clone)
+[Info   : Unity Log] Despawning enemy: DoublewingedBird(Clone)
+[Info   : Unity Log] Despawning enemy: DoublewingedBird(Clone)
+[Warning: Unity Log] [Netcode] NetworkObject #163 moved to the root because its parent NetworkObject #158 is destroyed
+[Warning: Unity Log] [Netcode] NetworkObject #164 moved to the root because its parent NetworkObject #162 is destroyed
+[Info   :LethalExpansion] Unloading scene: Level1Experimentation
+[Info   : Unity Log] Adding EXPANDED stats!
+[Info   : Unity Log] Scrap collected: 0
+[Info   :LethalExpansion] Despawn all items.
+[Info   : Unity Log] clip index: 10; soundType: 2; insanity sounds: False; vol: 0.4202837
+[Info   : Unity Log] XP gain before scaling to scrap returned: 10
+[Info   : Unity Log] 0
+[Info   : Unity Log] 0
+[Info   : Unity Log] Gained no XP
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players B
+[Info   : Unity Log] Reviving players F
+[Info   : Unity Log] Refreshing voice playback objects. Number of voice objects found: 0
+[Info   : Unity Log] Skipping player #1 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #2 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #3 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #4 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #5 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #6 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #7 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #8 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #9 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #10 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #11 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #12 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #13 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #14 as they are not controlled or dead
+[Info   : Unity Log] Skipping player #15 as they are not controlled or dead
+[Info   : Unity Log] Reviving players G
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players A
+[Info   : Unity Log] Reviving players H
+[Info   :LethalExpansion] [sync]1|0>-1|hostweathers=-1&5&4&-1&3&5&4&-1&-1[sync]
+[Info   :LethalExpansion] [sync]1|0>-1|hostweathers=-1&5&4&-1&3&5&4&-1&-1[sync]
+[Info   : Unity Log] Saved data for item type: Shotgun - 999
+[Warning: Unity Log] [Dissonance:Recording] (19:03:24.767) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (19:03:24.786) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.3475895)
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   :LethalExpansion] Item Grabbed.
+[Info   : Unity Log] Placing object in storage
+[Info   : Unity Log] discard held object called from placeobject
+[Info   : Unity Log] Triggering animated object trigger bool: setting to False
+[Info   : Unity Log] bool val: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] Discarding changed settings
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] Leaving current lobby
+[Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
+[Info   : Unity Log] Saved data for item type: Shotgun - 999
+[Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
+[Warning: Unity Log] [Dissonance:Recording] (19:04:10.110) BasicMicrophoneCapture: Insufficient buffer space, requested 19200, clamped to 16383 (dropping 2817 samples)
+[Warning: Unity Log] [Dissonance:Recording] (19:04:10.111) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (19:04:10.112) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Info   : Unity Log] Resetting unlockables list!
+[Info   : Unity Log] Scene manager is null
+[Info   : Unity Log] Terminal disabled, disabling ESC key listener
+[Info   : Unity Log] DISABLING connection callbacks in round manager
+[Info   :LethalExpansion] Unloading scene: SampleSceneRelay
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :LethalExpansion] Loading scene: MainMenu
+[Info   :Buyable Shotgun] Scene "MainMenu" loaded with Single mode.
+[Info   : Unity Log] Returning week num: 6
+[Info   : Unity Log] week num: 6
+[Info   : Unity Log] Positioning based on 4 saves.
+[Info   : Unity Log] Found file: LCSaveFile1
+[Info   : Unity Log] Found file: LCSaveFile2
+[Info   : Unity Log] Found file: LCSaveFile3
+[Info   : Unity Log] Found file: LCSaveFile4
+[Info   : Unity Log] Renamed LCSaveFile1 to TempFile1
+[Info   : Unity Log] Renamed LCSaveFile2 to TempFile2
+[Info   : Unity Log] Renamed LCSaveFile3 to TempFile3
+[Info   : Unity Log] Renamed LCSaveFile4 to TempFile4
+[Info   : Unity Log] Renamed TempFile1 to LCSaveFile1
+[Info   : Unity Log] Renamed TempFile2 to LCSaveFile2
+[Info   : Unity Log] Renamed TempFile3 to LCSaveFile3
+[Info   : Unity Log] Renamed TempFile4 to LCSaveFile4
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Error  : Unity Log] Releasing render texture that is set as Camera.targetTexture!
+[Info   : Unity Log] unsubscribing from steam callbacks

@@ -1,0 +1,9 @@
+{
+    "name": "BoomBoxOverhaul",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/RedKZX/BoomBoxOverhaul",
+    "description": "This mod overhauls the default BoomBox to include volume controls, infinite battery life and the music stays playing when you dont have it in your hands!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
